@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="44" passed="35" failed="9" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-17T19:18:01 IST" name="Suite" finished-at="2022-11-17T19:23:27 IST" duration-ms="326191">
+    <groups>
+    </groups>
+    <test started-at="2022-11-17T19:18:01 IST" name="Test" finished-at="2022-11-17T19:23:27 IST" duration-ms="326191">
+      <class name="testcases.CheckoutoverviewandBackhome">
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.CheckoutoverviewandBackhome@173ed316]" started-at="2022-11-17T19:22:48 IST" name="Login" finished-at="2022-11-17T19:22:59 IST" duration-ms="10436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_054()[pri:0, instance:testcases.CheckoutoverviewandBackhome@173ed316]" started-at="2022-11-17T19:22:59 IST" name="Tc_SL_054" finished-at="2022-11-17T19:22:59 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_054 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.CheckoutoverviewandBackhome@173ed316]" started-at="2022-11-17T19:22:59 IST" name="quit" finished-at="2022-11-17T19:22:59 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.CheckoutoverviewandBackhome@173ed316]" started-at="2022-11-17T19:22:59 IST" name="Login" finished-at="2022-11-17T19:23:10 IST" duration-ms="10675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_055()[pri:0, instance:testcases.CheckoutoverviewandBackhome@173ed316]" started-at="2022-11-17T19:23:10 IST" name="Tc_SL_055" finished-at="2022-11-17T19:23:13 IST" duration-ms="3148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_055 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.CheckoutoverviewandBackhome@173ed316]" started-at="2022-11-17T19:23:13 IST" name="quit" finished-at="2022-11-17T19:23:13 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.CheckoutoverviewandBackhome@173ed316]" started-at="2022-11-17T19:23:13 IST" name="Login" finished-at="2022-11-17T19:23:23 IST" duration-ms="10508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_056()[pri:0, instance:testcases.CheckoutoverviewandBackhome@173ed316]" started-at="2022-11-17T19:23:23 IST" name="Tc_SL_056" finished-at="2022-11-17T19:23:27 IST" duration-ms="3390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_056 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.CheckoutoverviewandBackhome@173ed316]" started-at="2022-11-17T19:23:27 IST" name="quit" finished-at="2022-11-17T19:23:27 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.CheckoutoverviewandBackhome -->
+      <class name="testcases.Checkout">
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:21 IST" name="Login" finished-at="2022-11-17T19:21:25 IST" duration-ms="3902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_042043()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:25 IST" name="Tc_SL_042043" finished-at="2022-11-17T19:21:27 IST" duration-ms="2143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_042043 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:27 IST" name="quit" finished-at="2022-11-17T19:21:28 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:28 IST" name="Login" finished-at="2022-11-17T19:21:32 IST" duration-ms="4160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_046t0049(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:32 IST" name="Tc_SL_046t0049" data-provider="checkout" finished-at="2022-11-17T19:21:36 IST" duration-ms="4376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_046t0049 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:36 IST" name="quit" finished-at="2022-11-17T19:21:36 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:36 IST" name="Login" finished-at="2022-11-17T19:21:41 IST" duration-ms="4384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_046t0049(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:41 IST" name="Tc_SL_046t0049" data-provider="checkout" finished-at="2022-11-17T19:21:45 IST" duration-ms="4465" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_046t0049 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:45 IST" name="quit" finished-at="2022-11-17T19:21:45 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:45 IST" name="Login" finished-at="2022-11-17T19:21:49 IST" duration-ms="4173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_046t0049(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:49 IST" name="Tc_SL_046t0049" data-provider="checkout" finished-at="2022-11-17T19:21:54 IST" duration-ms="4420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_046t0049 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:54 IST" name="quit" finished-at="2022-11-17T19:21:54 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:54 IST" name="Login" finished-at="2022-11-17T19:21:58 IST" duration-ms="4076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_046t0049(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:21:58 IST" name="Tc_SL_046t0049" data-provider="checkout" finished-at="2022-11-17T19:22:03 IST" duration-ms="4425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_046t0049 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Checkout@2cf3d63b]" started-at="2022-11-17T19:22:03 IST" name="quit" finished-at="2022-11-17T19:22:03 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.Checkout -->
+      <class name="testcases.AddtocartRemove">
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:32 IST" name="Login" finished-at="2022-11-17T19:19:34 IST" duration-ms="1863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_032035()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:34 IST" name="Tc_SL_032035" finished-at="2022-11-17T19:19:38 IST" duration-ms="4214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_032035 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:38 IST" name="quit" finished-at="2022-11-17T19:19:38 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:38 IST" name="Login" finished-at="2022-11-17T19:19:40 IST" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_033036()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:40 IST" name="Tc_SL_033036" finished-at="2022-11-17T19:19:44 IST" duration-ms="3961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_033036 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:44 IST" name="quit" finished-at="2022-11-17T19:19:44 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:44 IST" name="Login" finished-at="2022-11-17T19:19:46 IST" duration-ms="2103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_034037()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:46 IST" name="Tc_SL_034037" finished-at="2022-11-17T19:19:51 IST" duration-ms="5257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_034037 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:51 IST" name="quit" finished-at="2022-11-17T19:19:52 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:52 IST" name="Login" finished-at="2022-11-17T19:19:53 IST" duration-ms="1783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_038039040()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:19:53 IST" name="Tc_SL_038039040" finished-at="2022-11-17T19:20:02 IST" duration-ms="8425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_038039040 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:20:02 IST" name="quit" finished-at="2022-11-17T19:20:02 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:20:02 IST" name="Login" finished-at="2022-11-17T19:20:04 IST" duration-ms="2081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_041()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:20:04 IST" name="Tc_SL_041" finished-at="2022-11-17T19:20:06 IST" duration-ms="2244" status="FAIL">
+          <exception class="org.openqa.selenium.InvalidElementStateException">
+            <message>
+              <![CDATA[invalid element state
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8647798ec7ef37c818856e73437c7de, clearElement {id=8d6f9905-30c7-4882-a88d-ca8d0ab424c9}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\dbegum01\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49160}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49160/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (f8647798ec7ef37c818856e73437c7de)] -> xpath: //div[@class='cart_quantity']]
+Session ID: f8647798ec7ef37c818856e73437c7de]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidElementStateException: invalid element state
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8647798ec7ef37c818856e73437c7de, clearElement {id=8d6f9905-30c7-4882-a88d-ca8d0ab424c9}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\dbegum01\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49160}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49160/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (f8647798ec7ef37c818856e73437c7de)] -> xpath: //div[@class='cart_quantity']]
+Session ID: f8647798ec7ef37c818856e73437c7de
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:132)
+at testcases.AddtocartRemove.Tc_SL_041(AddtocartRemove.java:112)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidElementStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_041 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.AddtocartRemove@15bb5034]" started-at="2022-11-17T19:20:06 IST" name="quit" finished-at="2022-11-17T19:20:07 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.AddtocartRemove -->
+      <class name="testcases.Filter">
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:14 IST" name="Login" finished-at="2022-11-17T19:19:16 IST" duration-ms="2204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_018()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:16 IST" name="Tc_SL_018" finished-at="2022-11-17T19:19:18 IST" duration-ms="2158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_018 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:18 IST" name="quit" finished-at="2022-11-17T19:19:18 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:18 IST" name="Login" finished-at="2022-11-17T19:19:21 IST" duration-ms="2318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_019()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:21 IST" name="Tc_SL_019" finished-at="2022-11-17T19:19:23 IST" duration-ms="2210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_019 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:23 IST" name="quit" finished-at="2022-11-17T19:19:23 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:23 IST" name="Login" finished-at="2022-11-17T19:19:25 IST" duration-ms="1902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_020()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:25 IST" name="Tc_SL_020" finished-at="2022-11-17T19:19:27 IST" duration-ms="2284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_020 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:27 IST" name="quit" finished-at="2022-11-17T19:19:27 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:27 IST" name="Login" finished-at="2022-11-17T19:19:29 IST" duration-ms="2007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_021()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:29 IST" name="Tc_SL_021" finished-at="2022-11-17T19:19:32 IST" duration-ms="2273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_021 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Filter@7d0b7e3c]" started-at="2022-11-17T19:19:32 IST" name="quit" finished-at="2022-11-17T19:19:32 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.Filter -->
+      <class name="testcases.Back">
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Back@4b741d6d]" started-at="2022-11-17T19:20:07 IST" name="Login" finished-at="2022-11-17T19:20:09 IST" duration-ms="2723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_027()[pri:0, instance:testcases.Back@4b741d6d]" started-at="2022-11-17T19:20:09 IST" name="Tc_SL_027" finished-at="2022-11-17T19:20:16 IST" duration-ms="6197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_027 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Back@4b741d6d]" started-at="2022-11-17T19:20:16 IST" name="quit" finished-at="2022-11-17T19:20:16 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.Back -->
+      <class name="testcases.Product">
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Product@470734c3]" started-at="2022-11-17T19:21:19 IST" name="Login" finished-at="2022-11-17T19:21:21 IST" duration-ms="1839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_023()[pri:0, instance:testcases.Product@470734c3]" started-at="2022-11-17T19:21:21 IST" name="Tc_SL_023" finished-at="2022-11-17T19:21:21 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_023 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Product@470734c3]" started-at="2022-11-17T19:21:21 IST" name="quit" finished-at="2022-11-17T19:21:21 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.Product -->
+      <class name="testcases.Login">
+        <test-method is-config="true" signature="launch()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:01 IST" name="launch" finished-at="2022-11-17T19:18:07 IST" duration-ms="5954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Tc_SL_004to009(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:07 IST" name="Tc_SL_004to009" data-provider="login" finished-at="2022-11-17T19:18:07 IST" duration-ms="354" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secretsauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_004to009 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:07 IST" name="quit" finished-at="2022-11-17T19:18:07 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:07 IST" name="launch" finished-at="2022-11-17T19:18:10 IST" duration-ms="2115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Tc_SL_004to009(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:10 IST" name="Tc_SL_004to009" data-provider="login" finished-at="2022-11-17T19:18:10 IST" duration-ms="311" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standarduser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_004to009 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:10 IST" name="quit" finished-at="2022-11-17T19:18:10 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:10 IST" name="launch" finished-at="2022-11-17T19:18:12 IST" duration-ms="1935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Tc_SL_004to009(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:12 IST" name="Tc_SL_004to009" data-provider="login" finished-at="2022-11-17T19:18:12 IST" duration-ms="274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standarduser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secretsauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_004to009 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:12 IST" name="quit" finished-at="2022-11-17T19:18:12 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:12 IST" name="launch" finished-at="2022-11-17T19:18:14 IST" duration-ms="1670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Tc_SL_004to009(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:14 IST" name="Tc_SL_004to009" data-provider="login" finished-at="2022-11-17T19:18:14 IST" duration-ms="237" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_004to009 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:14 IST" name="quit" finished-at="2022-11-17T19:18:15 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:15 IST" name="launch" finished-at="2022-11-17T19:18:16 IST" duration-ms="1634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Tc_SL_004to009(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:16 IST" name="Tc_SL_004to009" data-provider="login" finished-at="2022-11-17T19:18:17 IST" duration-ms="375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_004to009 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:17 IST" name="quit" finished-at="2022-11-17T19:18:17 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:17 IST" name="launch" finished-at="2022-11-17T19:18:18 IST" duration-ms="1697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Tc_SL_004to009(java.lang.String,java.lang.String)[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:18 IST" name="Tc_SL_004to009" data-provider="login" finished-at="2022-11-17T19:18:19 IST" duration-ms="234" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secretsauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_004to009 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Login@4a883b15]" started-at="2022-11-17T19:18:19 IST" name="quit" finished-at="2022-11-17T19:18:19 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.Login -->
+      <class name="testcases.ChkoutFail">
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:03 IST" name="Login" finished-at="2022-11-17T19:22:07 IST" duration-ms="4167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_050to053(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:07 IST" name="Tc_SL_050to053" data-provider="checkout" finished-at="2022-11-17T19:22:11 IST" duration-ms="4428" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://www.saucedemo.com/checkout-step-one.html] but found [https://www.saucedemo.com/checkout-step-two.html]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://www.saucedemo.com/checkout-step-one.html] but found [https://www.saucedemo.com/checkout-step-two.html]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at testcases.ChkoutFail.Tc_SL_050to053(ChkoutFail.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_050to053 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:11 IST" name="quit" finished-at="2022-11-17T19:22:12 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:12 IST" name="Login" finished-at="2022-11-17T19:22:16 IST" duration-ms="4003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_050to053(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:16 IST" name="Tc_SL_050to053" data-provider="checkout" finished-at="2022-11-17T19:22:20 IST" duration-ms="4431" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://www.saucedemo.com/checkout-step-one.html] but found [https://www.saucedemo.com/checkout-step-two.html]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://www.saucedemo.com/checkout-step-one.html] but found [https://www.saucedemo.com/checkout-step-two.html]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at testcases.ChkoutFail.Tc_SL_050to053(ChkoutFail.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_050to053 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:20 IST" name="quit" finished-at="2022-11-17T19:22:20 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:20 IST" name="Login" finished-at="2022-11-17T19:22:24 IST" duration-ms="4019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_050to053(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:24 IST" name="Tc_SL_050to053" data-provider="checkout" finished-at="2022-11-17T19:22:29 IST" duration-ms="4440" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://www.saucedemo.com/checkout-step-one.html] but found [https://www.saucedemo.com/checkout-step-two.html]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://www.saucedemo.com/checkout-step-one.html] but found [https://www.saucedemo.com/checkout-step-two.html]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at testcases.ChkoutFail.Tc_SL_050to053(ChkoutFail.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_050to053 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:29 IST" name="quit" finished-at="2022-11-17T19:22:29 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:29 IST" name="Login" finished-at="2022-11-17T19:22:33 IST" duration-ms="3973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_050to053(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:33 IST" name="Tc_SL_050to053" data-provider="checkout" finished-at="2022-11-17T19:22:37 IST" duration-ms="4401" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://www.saucedemo.com/checkout-step-one.html] but found [https://www.saucedemo.com/checkout-step-two.html]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://www.saucedemo.com/checkout-step-one.html] but found [https://www.saucedemo.com/checkout-step-two.html]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at testcases.ChkoutFail.Tc_SL_050to053(ChkoutFail.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_050to053 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.ChkoutFail@7674f035]" started-at="2022-11-17T19:22:37 IST" name="quit" finished-at="2022-11-17T19:22:37 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.ChkoutFail -->
+      <class name="testcases.Menu">
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:19 IST" name="Login" finished-at="2022-11-17T19:18:21 IST" duration-ms="1936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_010()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:21 IST" name="Tc_SL_010" finished-at="2022-11-17T19:18:23 IST" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_010 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:23 IST" name="quit" finished-at="2022-11-17T19:18:23 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:23 IST" name="Login" finished-at="2022-11-17T19:18:25 IST" duration-ms="2032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_011()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:25 IST" name="Tc_SL_011" finished-at="2022-11-17T19:18:31 IST" duration-ms="6142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_011 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:31 IST" name="quit" finished-at="2022-11-17T19:18:31 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:31 IST" name="Login" finished-at="2022-11-17T19:18:33 IST" duration-ms="1857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_012()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:33 IST" name="Tc_SL_012" finished-at="2022-11-17T19:18:40 IST" duration-ms="7255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_012 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:40 IST" name="quit" finished-at="2022-11-17T19:18:41 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:41 IST" name="Login" finished-at="2022-11-17T19:18:43 IST" duration-ms="2161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_013()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:43 IST" name="Tc_SL_013" finished-at="2022-11-17T19:18:48 IST" duration-ms="5174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_013 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:48 IST" name="quit" finished-at="2022-11-17T19:18:48 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:48 IST" name="Login" finished-at="2022-11-17T19:18:50 IST" duration-ms="1964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_014()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:18:50 IST" name="Tc_SL_014" finished-at="2022-11-17T19:19:00 IST" duration-ms="10016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_014 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:19:00 IST" name="quit" finished-at="2022-11-17T19:19:00 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:19:00 IST" name="Login" finished-at="2022-11-17T19:19:03 IST" duration-ms="2255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_015()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:19:03 IST" name="Tc_SL_015" finished-at="2022-11-17T19:19:07 IST" duration-ms="4139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_015 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:19:07 IST" name="quit" finished-at="2022-11-17T19:19:07 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:19:07 IST" name="Login" finished-at="2022-11-17T19:19:09 IST" duration-ms="2267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_017()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:19:09 IST" name="Tc_SL_017" finished-at="2022-11-17T19:19:13 IST" duration-ms="4149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_017 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Menu@6e9175d8]" started-at="2022-11-17T19:19:13 IST" name="quit" finished-at="2022-11-17T19:19:14 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.Menu -->
+      <class name="testcases.ChkoutwithoutProduct">
+        <test-method signature="Tc_SL_045()[pri:0, instance:testcases.ChkoutwithoutProduct@69e153c5]" started-at="2022-11-17T19:22:37 IST" name="Tc_SL_045" finished-at="2022-11-17T19:22:48 IST" duration-ms="10606" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because the return value of "testcases.ChkoutwithoutProduct.element()" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because the return value of "testcases.ChkoutwithoutProduct.element()" is null
+at testcases.ChkoutwithoutProduct.Tc_SL_045(ChkoutwithoutProduct.java:36)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_045 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.ChkoutwithoutProduct@69e153c5]" started-at="2022-11-17T19:22:48 IST" name="quit" finished-at="2022-11-17T19:22:48 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.ChkoutwithoutProduct -->
+      <class name="testcases.FilterandBack">
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:20:38 IST" name="Login" finished-at="2022-11-17T19:20:41 IST" duration-ms="2622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_028()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:20:41 IST" name="Tc_SL_028" finished-at="2022-11-17T19:20:47 IST" duration-ms="6377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_028 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:20:47 IST" name="quit" finished-at="2022-11-17T19:20:48 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:20:48 IST" name="Login" finished-at="2022-11-17T19:20:50 IST" duration-ms="2208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_029()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:20:50 IST" name="Tc_SL_029" finished-at="2022-11-17T19:20:58 IST" duration-ms="8406" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Test.allTheThings() T-Shirt (Red)] but found [Sauce Labs Backpack]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Test.allTheThings() T-Shirt (Red)] but found [Sauce Labs Backpack]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at testcases.FilterandBack.Tc_SL_029(FilterandBack.java:62)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_029 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:20:58 IST" name="quit" finished-at="2022-11-17T19:20:58 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:20:58 IST" name="Login" finished-at="2022-11-17T19:21:00 IST" duration-ms="1918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_030()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:21:00 IST" name="Tc_SL_030" finished-at="2022-11-17T19:21:09 IST" duration-ms="8404" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Sauce Labs Onesie] but found [Sauce Labs Backpack]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Sauce Labs Onesie] but found [Sauce Labs Backpack]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at testcases.FilterandBack.Tc_SL_030(FilterandBack.java:79)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_030 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:21:09 IST" name="quit" finished-at="2022-11-17T19:21:09 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:21:09 IST" name="Login" finished-at="2022-11-17T19:21:11 IST" duration-ms="1838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_031()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:21:11 IST" name="Tc_SL_031" finished-at="2022-11-17T19:21:19 IST" duration-ms="8383" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Sauce Labs Fleece Jacket] but found [Sauce Labs Backpack]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Sauce Labs Fleece Jacket] but found [Sauce Labs Backpack]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at testcases.FilterandBack.Tc_SL_031(FilterandBack.java:95)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_031 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.FilterandBack@8f2ef19]" started-at="2022-11-17T19:21:19 IST" name="quit" finished-at="2022-11-17T19:21:19 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.FilterandBack -->
+      <class name="testcases.Socialconnect">
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Socialconnect@2eae8e6e]" started-at="2022-11-17T19:20:16 IST" name="Login" finished-at="2022-11-17T19:20:18 IST" duration-ms="1842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_024()[pri:0, instance:testcases.Socialconnect@2eae8e6e]" started-at="2022-11-17T19:20:18 IST" name="Tc_SL_024" finished-at="2022-11-17T19:20:22 IST" duration-ms="4231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_024 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Socialconnect@2eae8e6e]" started-at="2022-11-17T19:20:22 IST" name="quit" finished-at="2022-11-17T19:20:22 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Socialconnect@2eae8e6e]" started-at="2022-11-17T19:20:22 IST" name="Login" finished-at="2022-11-17T19:20:24 IST" duration-ms="1740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_025()[pri:0, instance:testcases.Socialconnect@2eae8e6e]" started-at="2022-11-17T19:20:24 IST" name="Tc_SL_025" finished-at="2022-11-17T19:20:28 IST" duration-ms="4152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_025 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Socialconnect@2eae8e6e]" started-at="2022-11-17T19:20:28 IST" name="quit" finished-at="2022-11-17T19:20:28 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:testcases.Socialconnect@2eae8e6e]" started-at="2022-11-17T19:20:28 IST" name="Login" finished-at="2022-11-17T19:20:30 IST" duration-ms="1717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Tc_SL_026()[pri:0, instance:testcases.Socialconnect@2eae8e6e]" started-at="2022-11-17T19:20:30 IST" name="Tc_SL_026" finished-at="2022-11-17T19:20:38 IST" duration-ms="8234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_SL_026 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:testcases.Socialconnect@2eae8e6e]" started-at="2022-11-17T19:20:38 IST" name="quit" finished-at="2022-11-17T19:20:38 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- testcases.Socialconnect -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
